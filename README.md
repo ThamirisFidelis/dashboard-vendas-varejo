@@ -1,6 +1,6 @@
 # Dashboard de Análise de Vendas e Faturamento - Varejo
+<img width="960" height="469" alt="Gemini_Generated_Image_pklvibpklvibpklv" src="https://github.com/user-attachments/assets/6392ff48-15e6-4373-b24c-139508f6f4a8" />
 
-## <img width="1024" height="584" alt="c3fbe058-b162-4788-b44a-402bf6a82127" src="https://github.com/user-attachments/assets/3cefc7fc-8f26-4798-ba3c-e56ecaf0c30e" />
 📌 Visão Geral do Projeto
 Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI para a análise estratégica de faturamento, volume de vendas e desempenho de filiais de uma rede de varejo. O objetivo principal é transformar dados brutos em insights visuais que facilitem a tomada de decisão gerencial.
 
